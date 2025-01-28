@@ -1,0 +1,1 @@
+The name attribute allows you to attach the data to a name and submit it in a form. 

@@ -1,0 +1,1 @@
+Responsive design enables us to respond to different device sizes and features. 

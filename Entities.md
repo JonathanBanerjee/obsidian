@@ -1,0 +1,4 @@
+- Start with an ampersand and end with a semi-colon
+- Used to display reserved characters that would normally be invalid.
+- Also used in place of difficult to type characters.
+- The browser interprets them and renders the correct character instead.
