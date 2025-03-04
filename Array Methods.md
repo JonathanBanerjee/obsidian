@@ -5,3 +5,6 @@
 [[IndexOf]]
 [[Includes]]
 [[Reverse]]
+[[Slice]]
+[[Splice]]
+[[Sort]]
