@@ -1,4 +1,6 @@
 [[Introducing arrays]]
 [[Array Random Access]]
 [[Array Methods]]
-
+[[Reference Types & Equality Testing]]
+[[Arrays and Const]]
+[[Multi-Dimensional Arrays]]
